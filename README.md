@@ -10,6 +10,8 @@ Lab reports for advanced digital design
 
 <br>
 
+# Two-Bit Binary Counter Simulation
+
 ![](images/sim.png)
 
 <br>
