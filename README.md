@@ -4,7 +4,7 @@ Lab reports for advanced digital design
 
 <br>
 
-## Two-Bit Full Adder Black Box Schematic 
+## Two-Bit Full Adder Schematic 
 
 ![](images/two-bit.png)
 
