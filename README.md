@@ -14,4 +14,6 @@ Lab reports for advanced digital design
 
 <br>
 
+# FPGA Programmed Two-Bit Full Adder
+
 ![](images/pro.png)
