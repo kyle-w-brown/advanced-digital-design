@@ -6,9 +6,9 @@ Lab reports for advanced digital design.
 
 # Two-Bit Full Adder Schematic 
 
-<p align="center"> 
+<center>
 ![](images/two-bit.png)
-</p>
+</center>
 
 <br>
 
