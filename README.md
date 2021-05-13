@@ -1,6 +1,6 @@
 # Advanced Digital Design
 
-Lab reports for advanced digital design.
+Lab reports for advanced digital design including, schematics, block diagrams, and simulations of digital logic circuits. These reports were used for both course submission as a student and grader material for as Lab Assistant. 
 
 <br>
 
