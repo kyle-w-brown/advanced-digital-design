@@ -1,6 +1,6 @@
 # Advanced Digital Design
 
-Lab reports for advanced digital design
+Lab reports for advanced digital design.
 
 <br>
 
