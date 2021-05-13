@@ -6,16 +6,16 @@ Lab reports for advanced digital design.
 
 # Two-Bit Full Adder Schematic 
 
-<center>
-![](images/two-bit.png)
-</center>
+<p align="center"> 
+<img src="images/two-bit.png" data-canonical-src="images/two-bit.png" width="550" height="300" /> 
+</p>
 
 <br>
 
 # Two-Bit Binary Counter Simulation
 
 <p align="center"> 
-![](images/sim.png)
+<img src="images/sim.png" data-canonical-src="images/sim.png" width="550" height="300" /> 
 </p>
 
 <br>
@@ -23,5 +23,5 @@ Lab reports for advanced digital design.
 # FPGA Programmed Two-Bit Full Adder
 
 <p align="center"> 
-![](images/pro.png)
+<img src="images/pro.png" data-canonical-src="images/pro.png" width="550" height="300" /> 
 </p>
