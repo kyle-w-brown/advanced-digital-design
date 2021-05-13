@@ -1,6 +1,6 @@
 # Advanced Digital Design
 
-Lab reports for EET 3100: Advanced Digital Design including, schematics, block diagrams, and simulations of digital logic circuits. These reports were used for both course submission as a student and then course grading material as Lab Assistant. 
+Lab reports for EET 3100: Advanced Digital Design including, schematics, block diagrams, and simulations of digital logic circuits. These reports were used for both course submission as a student and then course grading material as volunteer Lab Assistant. 
 
 <br>
 
